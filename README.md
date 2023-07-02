@@ -35,3 +35,6 @@ npm run server
 - Lucide react
 - React player
 - Vitest
+
+## Interface da aplicação
+![player](https://github.com/BertanDev/video-player/assets/72395637/39906e3a-440e-4758-864a-a1ff00fe2c14)
